@@ -71,6 +71,9 @@ input::placeholder {
   height: 150px;
   width: 300px;
 }
+ul::-webkit-scrollbar {
+  display: none;
+}
 button {
   border-style: none;
   background-color: rgba(0, 0, 0, 0);
